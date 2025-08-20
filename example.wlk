@@ -1,11 +1,7 @@
 object algoritmo {
   
   method color() { 
-<<<<<<< HEAD
     return "Misiones - Rojo intenso"
-=======
-    return "violeta purpura y clarito"
->>>>>>> e83db04bba673dd8334a5ba291fc62a93214f22c
     }
 }
 

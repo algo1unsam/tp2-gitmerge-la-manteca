@@ -6,7 +6,7 @@ object algoritmo {
 }
 
 object buenosAires {
-  method frutas() {
-    return ["manzana", "banana", "naranja", "pera", "uva"]
+  method autos() {
+    return [fiat,volkswagen,peugeot,renault]
   }
 }

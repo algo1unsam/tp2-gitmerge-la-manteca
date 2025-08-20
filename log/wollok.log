@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {"level":"info","message":"⌛ Building environment","timeElapsed":372,"timestamp":"2025-08-19T23:24:42.741Z"}
 {"level":"info","message":"⌛ Building environment","timeElapsed":185,"timestamp":"2025-08-19T23:24:43.143Z"}
 {"level":"info","message":"⌛ Validating example.wlk","timeElapsed":515,"timestamp":"2025-08-19T23:24:44.359Z"}
@@ -69,3 +70,7 @@
 {"level":"info","message":"⌛ Validating example.wlk","timeElapsed":130,"timestamp":"2025-08-19T23:48:14.155Z"}
 {"level":"info","message":"⌛ Validating example.wlk","timeElapsed":105,"timestamp":"2025-08-19T23:48:14.386Z"}
 {"level":"info","message":"⌛ Validating example.wlk","timeElapsed":164,"timestamp":"2025-08-19T23:48:14.857Z"}
+=======
+{"level":"info","message":"⌛ Building environment","timeElapsed":101,"timestamp":"2025-08-19T23:22:13.520Z"}
+{"level":"info","message":"⌛ Validating example.wlk","timeElapsed":121,"timestamp":"2025-08-19T23:22:13.697Z"}
+>>>>>>> e83db04bba673dd8334a5ba291fc62a93214f22c

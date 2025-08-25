@@ -1,10 +1,15 @@
 object algoritmo {
   
   method color() { 
-    return "Azul cobalto claro"
+    return "Misiones - Rojo intenso"
     }
 }
 
-object buenosAires {}
-
-
+object buenosAires {
+  method autos() {
+    return [fiat,volkswagen,peugeot,renault]
+  }
+}
+object neuquen {
+method provincia() {return self}
+}

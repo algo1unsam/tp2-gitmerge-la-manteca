@@ -10,3 +10,6 @@ object buenosAires {
     return [fiat,volkswagen,peugeot,renault]
   }
 }
+object neuquen {
+method provincia() {return self}
+}
